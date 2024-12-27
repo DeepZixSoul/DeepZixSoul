@@ -1,10 +1,11 @@
 # Diego Mancebo
+
 ## Sobre Mí
 
--Disfruto de los retos. 
--Capacidad de resolver problemas. 
--Aprendizaje continuo y autodidacta. 
--Apasionado de la música.
+- Disfruto de los retos
+- Capacidad de resolver problemas
+- Aprendizaje continuo y autodidacta
+- Apasionado de la música
 
 ## Perfil
 
