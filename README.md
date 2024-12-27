@@ -9,7 +9,8 @@
 
 ## Perfil
 
-Busco una posición como desarrollador junior, especializado en JavaScript y Vue.
+Busco trabajo como desarrollador junior, especializado en JavaScript y Vue.
+
 ## Experiencia Relevante
 
 ### Freelancer
