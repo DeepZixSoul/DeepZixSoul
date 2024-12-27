@@ -62,7 +62,7 @@ Busco trabajo como desarrollador junior, especializado en JavaScript y Vue.
 - **Marzo 2015 - Junio 2016**
 
 ### Trabajos durante la adolescencia
-- Trabajo en empresa familiar de mercadillo, con atención al público (veranos)
+- Trabajé en la empresa familiar haciendo mercadillo, con atención al público (veranos)
 - Camarero en diversos eventos
 
 ## Habilidades
