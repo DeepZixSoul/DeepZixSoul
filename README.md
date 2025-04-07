@@ -24,7 +24,7 @@ Busco trabajo como desarrollador junior, especializado en JavaScript y Vue.
 ## Educación
 
 ### Técnico Superior en Sistemas de Telecomunicaciones e Informáticos (IES El Palmeral)
-- **2020 - 2022**
+- **2021 - 2022**
 
 ### AWS Certification
 - **2024**: AWS Certified Cloud Practitioner
